@@ -20,8 +20,9 @@ header {
 .navbar {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    background-color: #3b3b3b; /* Cambia el color de fondo según tu diseño */
+    flex-direction: row;
+    width: 100%;
+    background-color: red;
     padding: 10px 20px;
   }
   
